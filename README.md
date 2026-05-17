@@ -1,1 +1,1 @@
-# dik-18
+This repository contains my hypothesis testing and statistics projects using python.
